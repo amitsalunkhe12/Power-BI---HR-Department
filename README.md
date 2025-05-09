@@ -1,4 +1,4 @@
-# Power-BI---HR-Department
+# PowerBI_HRDepartment
 Employee Attrition Analysis
 This project explores the factors contributing to employee attrition, focusing on age, education level, department, and salary. The goal is to identify patterns and key drivers of attrition to help organizations retain talent and improve HR strategies.
 
